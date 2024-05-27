@@ -5,12 +5,8 @@ the internet.
 
 # Dependencies
 
-Music Downloader depends on GUM and Yt-dlp
+Music Downloader depends on [Gum](https://github.com/charmbracelet/gum) from charmbracelet and [Yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-```
-
-
-```
 
 # Running
 
